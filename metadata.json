@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VanityVault",
+  "description": "A community-based, pool-style savings platform (Stokvel-inspired) with automated rotation logic, rule enforcement, and a transparent non-custodial administrative framework.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
